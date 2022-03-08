@@ -1,0 +1,29 @@
+.firstImage {
+    height:500px;
+    width:500px; 
+    margin-bottom: 5px;
+}
+body {
+    background-color: #2a9d8f;
+}
+h1 {
+    font-size: 60px;
+    font-style: bold;
+    padding: 10px;
+    background-color: #e9c46a;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.intro {
+    text-align: center;
+}
+.mainContent { 
+    font-style: italic;
+    background-color: #264653;
+    color: #f4a261;
+}
+h2 {
+    margin-top: 5px;
+    margin-bottom: 10px;
+    font-size: 40px;
+}
