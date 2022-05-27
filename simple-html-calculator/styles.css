@@ -1,0 +1,25 @@
+body {
+    background-color:#a4133c;
+    color:#ffb3c1;
+    
+}
+
+#mainContent {
+    border: 3px solid;
+    margin-right: 750px;
+    display: inline-grid;
+    grid-template-rows: repeat(3, 1fr);
+   
+}
+
+div {
+    margin: 10px;
+}
+
+input {
+    width: 30px;
+}
+
+button {
+    background-color: #ff8fa3;
+}
