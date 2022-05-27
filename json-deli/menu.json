@@ -1,0 +1,125 @@
+{
+    "Menu": [
+        {
+            "appetizers": [
+                {
+                    "Name": "Onion Rings",
+                    "Ingrediants": [
+                        "Onions",
+                        "Flour",
+                        "Egg",
+                        "Milk",
+                        "Bread Crumbs",
+                        "Seasoning"
+                    ],
+                    "Description": "Fried Onions that are deep fried"
+                },
+                {
+                    "Name": "Chips and Salsa",
+                    "Ingrediants": [
+                        "Onions, Tomatoes",
+                        "Jalepenos",
+                        "Cilantro",
+                        "Garlic",
+                        "Corn Flour"
+                    ],
+                    "Description": "Tortilla Chips mixed with a spicy dip of onions, tomatoes and flavor!"
+                }
+            ],
+            "Cold Sandwiches": [
+                {
+                    "Name": "Turkey Sandwich",
+                    "Ingrediants": [
+                        "Turkey Slices",
+                        "Tomatoes",
+                        "Lettuce",
+                        "Cheese",
+                        "White Bread"
+                    ],
+                    "Description": "Fresh Turkey Slices on fresh cut bread with cheese and vegetables"
+                },
+                {
+                    "Name": "BLT",
+                    "Ingrediants": [
+                        "Bacon",
+                        "Lettuce",
+                        "Tomatoes",
+                        "White Bread"
+                    ],
+                    "Description": "Bacon with fresh vegetables on white bread"
+                }
+            ],
+            "Hot Sandwiches": [
+                {
+                    "Name": "Hamburger",
+                    "Ingrediants": [
+                        "Beef Paddy",
+                        "Wheat Buns",
+                        "Lettuce",
+                        "Cheese",
+                        "Tomatoes",
+                        "Onions"
+                    ],
+                    "Description": "A sandwich consisting of a cooded meat patty on a bun with cheese and vegetables"
+                },
+                {
+                    "Name": "Grilled Cheese With Tomato Soup",
+                    "Ingrediants": [
+                        "White Bread",
+                        "Cheese",
+                        "Butter",
+                        "Tomato Soup"
+                    ],
+                    "Description": "Hot sandwich made with buttered and toasted bread served with tomato soup"
+                }
+            ],
+            "Desserts": [
+                {
+                    "Name": "Brownie",
+                    "Ingrediants": [
+                        "Egg",
+                        "Cocoa Powder",
+                        "Canola Oil",
+                        "Sugar"
+                    ],
+                    "Description": "They are rich, fudgy in the middle, and made completely from scratch"
+                },
+                {
+                    "Name": "Chocolate Chip Cookie",
+                    "Ingrediants": [
+                        "Egg",
+                        "Cocoa Powder",
+                        "Chocolate Chips",
+                        "Sugar",
+                        "Butter",
+                        "Flour"
+                    ],
+                    "Description": "A drop cookie that features chocolate chips"
+                }
+            ],
+            "Drinks": [
+                {
+                    "Name": "Lemonade",
+                    "Ingrediants": [
+                        "Lemon",
+                        "Corn Syrup",
+                        "Sugar"
+                    ],
+                    "Description": "A sweetened lemon-flavored beverage"
+                },
+                {
+                    "Name": "Coco Cola",
+                    "Ingrediants": [
+                        "Carbonated Water",
+                        "High Fructose Corn Syrup",
+                        "Caramel Color",
+                        "Phosphoric Acid",
+                        "Natural Flavors",
+                        "Caffeine"
+                    ],
+                    "Description": "A carbonated soft drink manufactured by the Coca-Cola Company"
+                }
+            ]
+        }
+    ]
+}
